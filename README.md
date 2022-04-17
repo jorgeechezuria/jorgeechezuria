@@ -15,7 +15,7 @@
 * Controlador de Tráfico Aéreo 🌎🛫🛬
 > (Estar en aeropuertos)
 
-* Ingeniería Electrónica - Telecomunicaciones - Programación 🌐📶🖥️
+* Ingeniería en Sistemas - Electrónica - Telecomunicaciones - Programación 🌐📶🖥️
 > (Me atrae mucho la tecnología)
 
 ## Contacto 📡
