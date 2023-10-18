@@ -1,10 +1,10 @@
 # Hola, Soy Jorge Echezuria
 
-* _Tengo 18 años_ 🕺 
+* _Tengo 19 años_ 🕺 
 > Cumplo el 4 de Abril 🎈
 
 * _Estudio en la E.E.S.T.N°7 "TRQ"_ 📚
-> Aviónica ✈️
+> Técnico Aviónico ✈️
 
 ***Soy Venezolano, actualmente vivo en Argentina (Quilmes, Buenos Aires)*** 🇻🇪 🇦🇷
 
@@ -15,7 +15,7 @@
 * Controlador de Tráfico Aéreo 🌎🛫🛬
 > (Estar en aeropuertos)
 
-* Ingeniería en Sistemas - Electrónica - Telecomunicaciones - Programación 🌐📶🖥️
+* Ingeniería en Sistemas - Programación 🌐📶🖥️
 > (Me atrae mucho la tecnología)
 
 ## Contacto 📡
