@@ -12,7 +12,6 @@
 ***Me gustaría estudiar :***
 
 * Piloto de Avión 👨🏻‍✈️
-* Controlador de Tráfico Aéreo 🌎🛫🛬
 > (Estar en aeropuertos)
 
 * Ingeniería en Sistemas - Programación 🌐📶🖥️
